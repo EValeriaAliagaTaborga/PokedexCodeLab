@@ -1,4 +1,4 @@
-package bo.upb.programacion3.codelabpokedex.model;
+package bo.upb.programacion3.codelabpokedex.model.repository;
 
 import com.google.gson.annotations.Expose;
 

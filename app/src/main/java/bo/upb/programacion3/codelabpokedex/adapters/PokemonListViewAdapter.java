@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.List;
 
 import bo.upb.programacion3.codelabpokedex.R;
-import bo.upb.programacion3.codelabpokedex.model.Pokemon;
+import bo.upb.programacion3.codelabpokedex.model.repository.Pokemon;
 
 public class PokemonListViewAdapter extends BaseAdapter {
 

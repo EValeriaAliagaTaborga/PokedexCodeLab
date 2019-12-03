@@ -11,7 +11,7 @@ import java.util.List;
 
 import bo.upb.programacion3.codelabpokedex.R;
 import bo.upb.programacion3.codelabpokedex.callback.PokemonCallback;
-import bo.upb.programacion3.codelabpokedex.model.Pokemon;
+import bo.upb.programacion3.codelabpokedex.model.repository.Pokemon;
 
 public class PokemonRecyclerViewAdapter extends RecyclerView.Adapter<PokemonViewHolder> {
 

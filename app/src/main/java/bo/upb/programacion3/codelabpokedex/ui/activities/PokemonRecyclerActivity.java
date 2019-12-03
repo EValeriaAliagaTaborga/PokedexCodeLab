@@ -1,4 +1,4 @@
-package bo.upb.programacion3.codelabpokedex;
+package bo.upb.programacion3.codelabpokedex.ui.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,9 +13,11 @@ import com.google.gson.Gson;
 
 import java.util.List;
 
+import bo.upb.programacion3.codelabpokedex.utils.Constants;
+import bo.upb.programacion3.codelabpokedex.R;
 import bo.upb.programacion3.codelabpokedex.adapters.PokemonRecyclerViewAdapter;
 import bo.upb.programacion3.codelabpokedex.callback.PokemonCallback;
-import bo.upb.programacion3.codelabpokedex.model.Pokemon;
+import bo.upb.programacion3.codelabpokedex.model.repository.Pokemon;
 import bo.upb.programacion3.codelabpokedex.utils.PokemonUtils;
 
 public class PokemonRecyclerActivity extends AppCompatActivity {

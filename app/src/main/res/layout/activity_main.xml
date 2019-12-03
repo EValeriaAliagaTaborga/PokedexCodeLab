@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".ui.activities.MainActivity">
 
     <!-- Drawer Layout encargado de manejar el Navigation Drawer-->
     <android.support.v4.widget.DrawerLayout
